@@ -66,7 +66,8 @@
         '{userName}のいいところは好奇心です。{userName}',
         '{userName}のいいところは気配りです。{userName}',
         '{userName}のいいところはその全てです。{userName}',
-        '{userName}のいいところは自制心です。{userName}'
+        '{userName}のいいところは自制心です。{userName}',
+        '{userName}のいいところは優しさです。{userName}'
     ];
 
     /**
